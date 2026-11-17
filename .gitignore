@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local copies of the template with real data — never commit real software names, vendor accounts, licence keys, or credentials
+*-real.csv
+*-private.csv
+
+# Generated outputs
+license-summary.txt

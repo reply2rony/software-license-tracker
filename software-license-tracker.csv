@@ -1,0 +1,13 @@
+software,vendor,license_type,seats,seats_used,renewal_date,annual_cost_usd,status,owner,note
+Sample Office Suite,Sample Vendor A,Perpetual,25,22,2027-03-15,1200,Active,Sample owner - IT lead,Sample item - office suite for the whole team
+Sample Design Tool,Sample Vendor B,Subscription,10,9,2026-12-05,2400,Expiring soon,Sample owner - IT lead,Sample item - renew or lose the design seats
+Sample Code Editor Pro,Sample Vendor C,Subscription,30,28,2027-06-30,1500,Active,Sample owner - IT lead,Sample item - editor licences for developers
+Sample Endpoint Security,Sample Vendor D,Subscription,50,50,2026-12-20,3000,Expiring soon,Sample owner - IT lead,Sample item - every seat in use - check before renewing
+Sample Video Meeting Tool,Sample Vendor E,Subscription,20,12,2027-01-31,900,Active,Sample owner - IT lead,Sample item - fewer seats used than bought
+Sample Project Tracker,Sample Vendor F,Subscription,15,15,2026-10-30,600,Expired,Sample owner - IT lead,Sample item - renewal date has passed - renew or stop using it
+Sample Cloud Storage,Sample Vendor G,Subscription,40,35,2027-09-01,1800,Active,Sample owner - IT lead,Sample item - shared storage for project files
+Sample PDF Editor,Sample Vendor H,Perpetual,8,8,2027-02-28,400,Active,Sample owner - IT lead,Sample item - small team - all seats in use
+Sample CRM Starter,Sample Vendor I,Subscription,12,4,2027-04-15,1100,Active,Sample owner - IT lead,Sample item - only a third of seats used - review at renewal
+Sample Backup Tool,Sample Vendor J,Subscription,5,5,2026-11-30,750,Expiring soon,Sample owner - IT lead,Sample item - renews in two weeks - decide now
+Sample HR Portal,Sample Vendor K,Subscription,10,0,2027-05-20,500,Unused,Sample owner - IT lead,Sample item - no seats used at all - cancel or reassign
+Sample Antivirus Home,Sample Vendor L,Subscription,25,26,2027-08-10,800,Active,Sample owner - IT lead,Sample item - one more user than seats bought - buy a seat or remove a user
